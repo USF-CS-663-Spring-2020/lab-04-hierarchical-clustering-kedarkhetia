@@ -1,7 +1,7 @@
 # CS663 Lab 04 - Hierarchical
 
-### Name: Kedar Khetia
-### USF-Email: kmkhetia@dons.usfca.edu
+#### Name: Kedar Khetia
+#### USF-Email: kmkhetia@dons.usfca.edu
 
 Datasets for this lab are:
 
